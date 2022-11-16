@@ -9,5 +9,4 @@ Spams new windows with custom text and color
 #
 4 Go to dist folder and open .exe file
 #
-#
 # For Educational Purposes Only!
